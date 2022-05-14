@@ -7,7 +7,7 @@
   </p>
 </div>
 
-<h3>Vercel Deploy: https://react-rick-morty.herokuapp.com/</h3>
+<h3>Heroku Deploy: https://react-rick-morty.herokuapp.com/</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>

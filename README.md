@@ -60,9 +60,9 @@ If you want to setup this project locally you need to setup your own Moongose da
    npm install
    ```
 4. Serve
-```sh
-npm start
-```
+    ```sh
+    npm start
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
